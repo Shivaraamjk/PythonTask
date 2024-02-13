@@ -33,7 +33,7 @@ def main():
 
 
     static_data = [
-        {'Name': 'Noor', 'Age': 51, 'Place': 'England'},
+        {'Name': 'Noor', 'Age': 51, 'Place': 'Azerbaijan'},
         {'Name': 'Saba', 'Age': 31, 'Place': 'India'},
         {'Name': 'Alina', 'Age': 67, 'Place': 'Los Angeles'},
         {'Name': 'Bobby', 'Age': 53, 'Place': 'Chicago'},
